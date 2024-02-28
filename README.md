@@ -1,6 +1,6 @@
 ## Hi, This is Sunny's Github! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome%20to%Sunny's%20Github!&fontSize=75&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Welcome%20to-nl-Sunny's%20Github!&fontSize=65&animation=blinking&fontColor=ffffff" />
 
 <!--
 **baesunny/baesunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
