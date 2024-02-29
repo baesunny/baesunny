@@ -5,7 +5,7 @@
 
 👋🏻 Hello, I'm SeongYoon Bae! 
 
-🎓 I graduated from Daejeon Foreign Language High School in a Japanese major.
+🎓 I graduated from Daejeon Foreign Language High School with a major in Japanese.
 
 🏫 I'm in the AI BigData & Management Department at Kookmin University, and interested in Computer Vision and Recommendataion System.
 
