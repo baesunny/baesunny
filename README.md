@@ -9,7 +9,7 @@
 and am currently in the AI BigData & Management Department at Kookmin University. 
 
 💻 I am dreaming of becoming a Management Consultant with data analysis skills 
-and interested are Computer Vision and Recommendation System. 
+and interested in Computer Vision and Recommendation System. 
 
 💬 I'm trying to become a better person every day. 
 
