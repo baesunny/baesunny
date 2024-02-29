@@ -24,7 +24,7 @@ and I'm interested are Computer Vision and Recommendation System.
    </a>
     <a href="https://www.instagram.com/bbi_s2_idd" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> 
     </a>
-    <a href="https://blog.naver.com/sunabc1023" target="_blank"><img src = "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blog&logoColor=white"/> 
+    <a href="https://blog.naver.com/sunabc1023" target="_blank"><img src = "https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/> 
     </a>
 
     
