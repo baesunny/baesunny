@@ -1,5 +1,5 @@
 # ☀️ Sunny's DataLab ☀️
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=55&pause=1000&color=F7F7F7&background=FF4E62&center=true&vCenter=true&random=false&width=900&height=150&lines=Welcome+to+Sunny's+Github!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=55&pause=1000&color=F7F7F7&background=80606A&center=true&vCenter=true&random=false&width=900&height=150&lines=Welcome+to+Sunny's+Github!" alt="Typing SVG" /></a>
 
 
 
