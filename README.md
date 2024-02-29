@@ -13,7 +13,7 @@ and I'm interested are Computer Vision and Recommendation System.
 
 💬 I'm trying every day to become a better person. 
 
-🙌🏻 Welcome to my GitHub!
+💜 Welcome to my GitHub!
 
 
 
