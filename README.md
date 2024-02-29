@@ -60,9 +60,9 @@ and I'm interested are Computer Vision and Recommendation System.
 
 
 ### Others
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/>
 
 
