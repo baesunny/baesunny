@@ -5,13 +5,13 @@
 
 👋🏻 Hello, I'm SeongYoon Bae! 
 
-🏫 I graduated from Daejeon Foreign Language High School in a Japanese major, 
-and am currently in the AI BigData & Management Department at Kookmin University. 
+🎓 I graduated from Daejeon Foreign Language High School in a Japanese major.
 
-💻 I am dreaming of becoming a Management Consultant with data analysis skills 
-and interested in Computer Vision and Recommendation System. 
+🏫 I'm in the AI BigData & Management Department at Kookmin University, and interested in Computer Vision and Recommendataion System.
 
-💬 I'm trying to become a better person every day. 
+💻 I wanna be a Management Consultant with data analysis skills in the future.
+
+💬 Hoping to be a better person tomorrow,
 
 💜 Welcome to my GitHub!
 
