@@ -11,7 +11,7 @@
 
 💻 After graduation, I plan to work as a Management Consultant with Data Analysis skills.
 
-💬 Hoping to be a better person tomorrow,
+💬 Hoping to be a better person,
 
 💜 Welcome to my GitHub!
 
