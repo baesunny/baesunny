@@ -25,7 +25,8 @@ and I'm interested are Computer Vision and Recommendation System.
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
    <a href="https://sunnybae1023.tistory.com/" target="_blank">
-     <img src="https://img.shields.io/badge/#000000?style=flat-square&logo=tistory&logoColor=white"/>
+     <img src="https://img.shields.io/badge/
+         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
    </a>
 
 # ☎️ How to Contact ☎️
