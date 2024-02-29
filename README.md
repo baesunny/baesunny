@@ -1,6 +1,6 @@
 # ☀️ Sunny's DataLab ☀️
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7F7F7&background=FF4E62&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Sunny's+Github!" alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3d6b&height=300&section=header&text=Welcome%20to%20Sunny's%20Github!&fontSize=60&animation=twinkling&fontColor=ffffff" />
 
 
 # 🍀 Introduction 🍀
@@ -16,6 +16,7 @@ and my areas of interest are Computer Vision and Recommendation System.
 ☺️ I'm trying every day to become a better person. 
 
 🙌🏻 Welcome to my GitHub!
+
 
 
 # ☎️ How to Contact ☎️
