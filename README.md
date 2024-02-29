@@ -5,11 +5,11 @@
 
 👋🏻 Hello, I'm SeongYoon Bae! 
 
-🏫 After graduating from Daejeon Foreign Language High School with a major in Japanese, 
-I'm currently in the AI BigData & Management Department at Kookmin University. 
+🏫 I graduated from Daejeon Foreign Language High School in a Japanese major, 
+and am currently in the AI BigData & Management Department at Kookmin University. 
 
 💻 I am dreaming of becoming a Management Consultant with data analysis skills 
-and I'm interested are Computer Vision and Recommendation System. 
+and interested are Computer Vision and Recommendation System. 
 
 💬 I'm trying to become a better person every day. 
 
