@@ -3,17 +3,11 @@
 
 # 🍀 Introduction 🍀
 
-👋🏻 Hello, I'm SeongYoon Bae! 
+Hello, I'm SeongYoon Bae! 👋🏻
 
-🎓 I studied Japanese at Daejeon Foreign Language High School and graduated in 2022.
+I studied Japanese at Daejeon Foreign Language High School and graduated in 2022. I'm majoring in AI BigData & Management Department at Kookmin University, and interested in Computer Vision and Recommendataion System. After graduation, I plan to work as a Management Consultant with Data Analysis skills. Hoping to be a better person,
 
-🏫 I'm majoring in AI BigData & Management Department at Kookmin University, and interested in Computer Vision and Recommendataion System.
-
-💻 After graduation, I plan to work as a Management Consultant with Data Analysis skills.
-
-💬 Hoping to be a better person,
-
-💜 Welcome to my GitHub!
+Welcome to my GitHub!
 
 
 # ☎️ How to Contact ☎️
